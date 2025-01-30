@@ -1,0 +1,19 @@
+.impar{
+    background-color: rgb(250, 143, 143);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#title{
+    color: blue;
+    font-size: 36px;
+}
+
+.impar.cooler{
+    font-size: 24px;
+}
+
+#title-2{
+    background-color: rgb(114, 224, 114);
+    font-size: 24 px;
+    font-weight: 700;
+}
